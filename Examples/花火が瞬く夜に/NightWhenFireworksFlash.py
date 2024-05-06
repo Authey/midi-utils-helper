@@ -1,7 +1,7 @@
 # Author: Authey
 # Date: 20/07/2021
 
-from MIDIMusicScales import Scales
+from Scales import Scales
 
 
 class night_when_fireworks_flash:

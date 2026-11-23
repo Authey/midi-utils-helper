@@ -1,0 +1,8 @@
+[project]
+name = "midi-utils-helper"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "midiutil>=1.2.1",
+    "pygame-ce>=2.5.8",
+]

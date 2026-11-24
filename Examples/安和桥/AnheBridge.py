@@ -1,4 +1,4 @@
-"""Fingerstyle guitar arrangement from Notes/点点糖指弹版 (two pages).
+"""Fingerstyle guitar arrangement from Notes.
 
 The tablature is recorded as beat/string/fret events. String 1 is high E.
 Slide, hammer-on and pull-off targets are approximated by softer re-plucks;
